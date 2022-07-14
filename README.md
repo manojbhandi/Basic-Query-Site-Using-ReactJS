@@ -1,4 +1,5 @@
-# react-basic-project
+# basic-query-site
+# This project uses multiple components which are rendered in the DOM using react
 #final page
 ![image](https://user-images.githubusercontent.com/97438009/179014305-236af24b-d316-4fab-bd69-4a6d531645ff.png)
 
